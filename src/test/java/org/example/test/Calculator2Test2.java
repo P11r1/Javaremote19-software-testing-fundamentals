@@ -22,5 +22,6 @@ public class Calculator2Test2 {
 
         //Then
         Assertions.assertEquals(3922.099853515625, result);
+
     }
 }
